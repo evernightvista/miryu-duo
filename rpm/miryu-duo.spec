@@ -17,6 +17,7 @@ BuildRequires:  qt6-qtbase-devel
 BuildRequires:  kf6-ki18n-devel
 BuildRequires:  kf6-kglobalaccel-devel
 BuildRequires:  kf6-kconfig-devel
+BuildRequires:  libepoxy-devel
 BuildRequires:  kwin-devel = %{KWIN_VERSION}
 
 Requires:       kwin = %{KWIN_VERSION}
