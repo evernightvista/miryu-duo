@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/miryu-duo">
+        <file alias="fold.frag">shaders/fold.frag</file>
+    </qresource>
+</RCC>

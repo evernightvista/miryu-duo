@@ -1,0 +1,26 @@
+# Miryu Duo —— 日本語翻訳
+# SPDX-FileCopyrightText: 2026 Miryu Gaming <dev@miryugaming.org>
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: miryu-duo 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/miryugaming/miryu-duo/issues\n"
+"POT-Creation-Date: 2026-10-25 12:00+0800\n"
+"PO-Revision-Date: 2026-10-25 12:00+0800\n"
+"Last-Translator: Miryu Gaming <dev@miryugaming.org>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Toggle the fold animation"
+msgstr "折りたたみアニメーションを切り替え"
+
+msgid "Fold the desktop"
+msgstr "デスクトップを折りたたむ"
+
+msgid "Unfold the desktop"
+msgstr "デスクトップを広げる"

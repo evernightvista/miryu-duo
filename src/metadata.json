@@ -1,0 +1,29 @@
+{
+    "KPlugin": {
+        "Id": "org.miryugaming.duo",
+        "Name": "Miryu Duo",
+        "Name[zh_CN]": "Miryu Duo",
+        "Name[zh_TW]": "Miryu Duo",
+        "Name[de]": "Miryu Duo",
+        "Name[ja]": "Miryu Duo",
+        "Name[fr]": "Miryu Duo",
+        "Name[ko]": "Miryu Duo",
+        "Description": "Folds the whole desktop like a foldable phone when logging out and unfolds it when logging in, with a progressive blur",
+        "Description[zh_CN]": "注销时像折叠手机一样合拢整个桌面，登入时展开，并带有渐进模糊",
+        "Description[zh_TW]": "登出時像摺疊手機一樣收合整個桌面，登入時展開，並帶有漸進模糊",
+        "Description[de]": "Faltet den gesamten Desktop beim Abmelden wie ein Falttelefon und entfaltet ihn beim Anmelden – mit zunehmender Unschärfe",
+        "Description[ja]": "ログアウト時に折りたたみ式スマートフォンのようにデスクトップ全体を折りたたみ、ログイン時に広げます。ぼかし効果つき",
+        "Description[fr]": "Replie tout le bureau comme un téléphone pliable à la déconnexion et le déplie à la connexion, avec un flou progressif",
+        "Description[ko]": "로그아웃 시 폴더블 폰처럼 데스크톱 전체를 접고, 로그인 시 펼치며 점진적인 흐림 효과를 적용합니다",
+        "Authors": [
+            {
+                "Name": "KairikiFedora",
+                "Email": "13278297951@sina.cn"
+            }
+        ],
+        "Category": "Appearance",
+        "License": "GPL-3.0-or-later",
+        "EnabledByDefault": true
+    },
+    "X-KDE-Ordering": "45"
+}
